@@ -44,9 +44,14 @@ cd jeu-de-brique
 
 Déplacez la brique pour esquiver les obstacles qui apparaissent.  Le jeu se termine si vous entrez en collision avec un obstacle. 
 
-## 🖼️ Capture d'écran
+## 👨‍💻 Développeur
 
-![Capture d'écran de LBreakout 2](https://upload.wikimedia.org/wikipedia/commons/3/3b/LBreakout2.png)
+Ce jeu a été entièrement coder par l'apprenti Développeur Brandon 
+
+## Contactez moi 
+pour besoin particulier :
+- whatsapp : +237679700294
+- e-mail : brindicram@gmail.com 
 
 
 
